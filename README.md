@@ -8,7 +8,8 @@ I am an experienced mobile and web developer with a strong focus on Android deve
 
 ### Mobile Development:
 
-![Android Icon](https://github.com/user-attachments/assets/e009c45b-8bb7-4f47-b77c-95a6e77a3b6a)  <!-- Replace with Android icon -->
+
+![Android Icon](https://github.com/user-attachments/assets/9ae5f1e6-9f82-44b5-854e-85ae6376a36c)  <!-- Replace with Android icon -->
 - **Android (Java, Kotlin):** Developing native Android applications with a focus on performance and user experience.
 - **Flutter:** Building cross-platform mobile apps for both Android and iOS.
 - **Firebase Integration:** Implementing real-time databases, authentication, and cloud messaging.
@@ -16,14 +17,15 @@ I am an experienced mobile and web developer with a strong focus on Android deve
 
 ### Backend Development:
 
-<img src="https://github.com/user-attachments/assets/7a120b5a-cae7-4c06-b46b-67246f531dd7" width="100" /> <!-- Replace with Laravel icon -->
+
+<img src="https://github.com/user-attachments/assets/656d42f5-c7fb-4434-8588-bc45e2f2ca72" width="100" /> <!-- Replace with Laravel icon -->
 - **Laravel (PHP):** Developing robust and scalable backend systems with Laravel.
 - **MySQL & PostgreSQL:** Managing relational databases for efficient data storage and retrieval.
 - **API Design & Development:** Creating secure and efficient APIs for various applications.
 
 ### Other Technologies:
 
-![Tech Icon](https://github.com/user-attachments/assets/03b52eab-5976-4f49-874f-8479e0c078ae)  <!-- Replace with relevant tech icon -->
+![Tech Icon](https://github.com/user-attachments/assets/90afb9c1-94aa-4e2c-94e8-33b929dbfeae)  <!-- Replace with relevant tech icon -->
 - **Git & GitHub:** Version control and collaborative development.
 - **XAMPP:** Local development environment for PHP applications.
 - **Payment Integrations:** Implementing Paymongo, Gcash, and PayPal Sandbox for secure transactions.
@@ -35,13 +37,13 @@ I am an experienced mobile and web developer with a strong focus on Android deve
    A mobile app aimed at improving users' form in calisthenics exercises using embedded electromyography (EMG) sensors.
    - Features include real-time muscle pressure monitoring, muscle fatigue warnings, exercise programs, and user progress tracking.
 
-   <img src="https://github.com/user-attachments/assets/b26c0d15-0c02-4879-a8a4-a16903a892bf" width="600" />  <!-- Replace with a screenshot of the project -->
+   <img src="https://github.com/user-attachments/assets/6ba43d82-72e6-4734-9f74-299213d48684" width="600" />  <!-- Replace with a screenshot of the project -->
 
 ### 2. **Billiard Management System**
    A full-featured booking and tournament management system for billiard tables.
    - Includes user roles for admin and cashier, integrating Paymongo, Gcash, and PayPal sandbox for payments.
 
-   ![Billiard Management](https://github.com/user-attachments/assets/9181a323-4af9-4a9c-a978-3b5d2ebb3859)  <!-- Replace with a screenshot of the project -->
+   ![Billiard Management](https://github.com/user-attachments/assets/afda3a22-9ac4-4a09-a912-ba45e2440886)  <!-- Replace with a screenshot of the project -->
 
 ## Experience
 
